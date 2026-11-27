@@ -15,6 +15,7 @@ How do you make one part of a world answer another in time with music? These are
 | Give a gesture a recognizable answer, overlap, and rest | [Compose visual call-and-response](skills/compose-visual-call-and-response/SKILL.md) |
 | Make quick sound feel like light, weight, or drifting water | [Tune audio-reactive motion](skills/tune-audio-reactive-motion/SKILL.md) |
 | Show where sound has been through terrain, ripples, or trails | [Draw sound history](skills/draw-sound-history/SKILL.md) |
+| Give a water tap a pitched sound and a lingering wet trace | [Play water memory](skills/play-water-memory/SKILL.md) |
 | Make a complex visual instrument inviting to play | [Design visual instrument controls](skills/design-visual-instrument-controls/SKILL.md) |
 
 ## Try the eight-second duet
